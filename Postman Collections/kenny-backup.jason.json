@@ -224,6 +224,18 @@
 				"description": "This request has a test asserting that certain response headers are present or have an expected value.\n\nYou can access details of the response, such as headers, on the `pm.response` object. See the [response object documentation](https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/#scripting-with-response-data) for other properties available."
 			},
 			"response": []
+		},
+		{
+			"name": "to do",
+			"id": "85ffe56e-01d4-460e-bf8f-2c45c09c056e",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"event": [
