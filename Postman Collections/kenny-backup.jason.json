@@ -248,6 +248,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "ken req",
+			"id": "58ba10d6-64d6-4ae5-b397-939b359d7ce9",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	],
 	"event": [
